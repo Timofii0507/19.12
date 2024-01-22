@@ -5,9 +5,12 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="StringSet.cpp" />
     <ClCompile Include="main2.cpp" />
+    <ClCompile Include="main3.cpp" />
+    <ClCompile Include="array.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="lab.h" />
     <ClInclude Include="StringSet.h" />
+    <ClInclude Include="array.h" />
   </ItemGroup>
 </Project>
