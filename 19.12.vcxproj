@@ -21,9 +21,12 @@
   <ItemGroup>
     <ClCompile Include="lab.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="main2.cpp" />
+    <ClCompile Include="StringSet.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="lab.h" />
+    <ClInclude Include="StringSet.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
