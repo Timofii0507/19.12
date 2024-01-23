@@ -1,7 +1,7 @@
 #include "StringSet.h"
 #include <Windows.h>
 
-int main() 
+int main()
 {
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
